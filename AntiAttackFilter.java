@@ -1,4 +1,3 @@
-package com.sanxing.epower.core.controller;
 
 import com.sanxing.epower.core.util.GlobalUtil;
 import org.apache.commons.lang3.StringUtils;
